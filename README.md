@@ -1,1 +1,1 @@
-# Work_with_tabel
+# Работа с табличными данными в python
